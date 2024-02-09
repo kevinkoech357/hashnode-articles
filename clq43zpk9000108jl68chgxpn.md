@@ -10,7 +10,7 @@ tags: nginx, python3, flask, gunicorn
 
 **Introduction**
 
-Hey there! Welcome to the behind-the-scenes saga of [ScreenRekod](http://www.screenrekod.tech) – a school project, fueled by a blend of passion for innovation and a burning curiosity about the uncharted territories of screen recording. In this journey, I wore multiple hats – the frontend artist, the backend sorcerer, and the devops wizard – all in the pursuit of creating something special.
+Hey there! Welcome to the behind-the-scenes saga of [ScreenRekod](http://www.screenrekod.tech) – a school project, fueled by a blend of passion for innovation and a burning curiosity about the uncharted territories of screen recording. In this journey, I wore multiple hats – the frontend artist, the backend sorcerer, and the DevOps wizard – all in the pursuit of creating something special.
 
 **Project Sparks**
 
@@ -20,9 +20,9 @@ Thus, ScreenRekod was born, not just as another screen recording app but as a ta
 
 **Tech Talk**
 
-For the frontend, I decided to dive deep into the core trio – HTML5, Bootstrap5, and JavaScript. No fancy frameworks here – just a commitment to understanding the building blocks of the web, resulting in a custom, lightweight user interface.
+For the front end, I decided to dive deep into the core trio – HTML5, Bootstrap5, and JavaScript. No fancy frameworks here – just a commitment to understanding the building blocks of the web, resulting in a custom, lightweight user interface.
 
-The backend got the love of Flask – simplicity and efficiency were the name of the game. And for our data, SQLite came in as the reliable database companion – lightweight and perfectly aligned with the project's scope.
+The backend got the love of Flask – simplicity and efficiency were the name of the game. For our data, SQLite came in as the reliable database companion – lightweight and perfectly aligned with the project's scope.
 
 When it came to recording the magic happening on screens, the MediaRecorder API took the spotlight. Leveraging native browser support, it became the tool for capturing audio and video streams seamlessly.
 
@@ -40,6 +40,6 @@ In the end, ScreenRekod is more than a tool; it's an embodiment of my dedication
 
 **Conclusion**
 
-As the developer behind ScreenRekod, I am a passionate innovator driven by a curiosity for groundbreaking applications. Checkout the links below and don't forget to leave a like or comment.
+As the developer behind ScreenRekod, I am a passionate innovator driven by a curiosity for groundbreaking applications. Check out the links below and don't forget to leave a like or comment.
 
-[GitHub](https://github.com/kevinkoech357/screen_rekod) || [Project Landing Page](https://screenrekod.tech/) || [Twitter](https://twitter.com/kevinkoech357)
+[GitHub](https://github.com/kevinkoech357/screen_rekod) || [Project Landing Page](https://screen-rekod-kevinkoech.koyeb.app/) || [Twitter](https://twitter.com/kevinkoech357)
